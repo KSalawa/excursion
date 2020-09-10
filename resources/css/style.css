@@ -34,3 +34,17 @@ body{
     font-weight: 300;
     font size: 21px;
 }
+
+/*FOOTER*/
+.footer--copytight{
+    color: gray;
+    font-size: 16px;
+    text-align: right;
+}
+
+/* img */
+
+.camp {
+    width: 75%;
+    max-width: 700px;
+}
